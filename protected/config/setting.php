@@ -5,9 +5,9 @@
  * Modules:
  *	params
  *
- * @author Putra Sudaryanto <putra@ommu.co>
- * @contact (+62)856-299-4114
- * @copyright Copyright (c) 2012 Ommu Platform (www.ommu.co)
+ * @author Putra Sudaryanto <putra@ommu.id>
+ * @contact (+62)811-2540-432
+ * @copyright Copyright (c) 2012 Ommu Platform (www.ommu.id)
  * @link https://github.com/ommu/ommu
  *
  */
@@ -16,7 +16,7 @@ return array(
 	// using Yii::app()->params['paramName']
 	'params'=>array(
 		// this is used in contact page
-		'adminEmail'=>'support@ommu.co',
+		'adminEmail'=>'support@ommu.id',
 		'primaryLang' => 'id',
 		'translateLangs' => array(
 			'en' => 'en',
@@ -25,9 +25,9 @@ return array(
 		
 		// timthumb replace url
 		'timthumb_url_replace' => 0,
-		'timthumb_url_replace_website' => 'http://ommu.co',	//default http
+		'timthumb_url_replace_website' => 'http://ommu.id',	//default http
 		// access system *from product
-		'product_access_system' => 'ommu.co',
+		'product_access_system' => 'ommu.id',
 
 		// grid-view setting
 		'grid-view' => array(

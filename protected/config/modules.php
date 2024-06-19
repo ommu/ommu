@@ -2,9 +2,9 @@
 /**
  * Merge file module_core and module_addon
  *
- * @author Putra Sudaryanto <putra@ommu.co>
- * @contact (+62)856-299-4114
- * @copyright Copyright (c) 2012 Ommu Platform (www.ommu.co)
+ * @author Putra Sudaryanto <putra@ommu.id>
+ * @contact (+62)811-2540-432
+ * @copyright Copyright (c) 2012 Ommu Platform (www.ommu.id)
  * @link https://github.com/ommu/ommu
  *
  */
